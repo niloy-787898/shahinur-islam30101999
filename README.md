@@ -7,7 +7,7 @@ I am a Front-End Web Developer who is passionate to develop a website. I am pass
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on home 
-- 🌱 I’m currently learning JS,ASP.net 
+- 🌱 I’m currently learning MERN Development
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development & other query 
 - 📫 How to reach me: https://www.facebook.com/profile.php?id=100079507097512 
